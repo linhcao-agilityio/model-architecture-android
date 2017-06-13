@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoMVVMArchitectureComponent</string>
+    <string name="progress_title">Loading...</string>
+    <string name="progress_body">Wait a second</string>
+</resources>
